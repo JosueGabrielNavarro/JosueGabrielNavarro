@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**JosueGabrielNavarro/JosueGabrielNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido/a a mi rincón digital! Soy un/a **Ingeniero/a de Sistemas en formación** con una profunda pasión por la programación y las matemáticas, forjada desde los 15 años. Mi curiosidad y mi enfoque autodidacta me impulsan a explorar y dominar nuevas tecnologías, con una visión clara hacia la **Ciencia de Datos**.
 
-Here are some ideas to get you started:
+## 🚀 Mi Viaje de Aprendizaje
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy comprometido/a con un aprendizaje riguroso y práctico:
+
+* **ONE Oracle Next Education:** Especialización intensiva en **Data Science**, cubriendo Machine Learning y bases de datos.
+* **CS50 (HarvardX):** Fundamentos sólidos en Ciencias de la Computación, algoritmos y estructuras de datos.
+* **Matemáticas para Ciencias de la Computación (MIT OCW):** Construyendo una base matemática robusta para el análisis de problemas complejos.
+* **Google Cloud Innovator's Community:** Explorando el potencial de la computación en la nube y sus herramientas.
+
+## 💻 Habilidades Técnicas
+
+A través de mi estudio y práctica constante en plataformas como Codeforces, he desarrollado y estoy perfeccionando las siguientes habilidades:
+
+**Lenguajes de Programación:** `Python` | `JavaScript` | `SQL` | `C++` | `Java` | `C`
+**Conceptos:** Estructuras de Datos | Algoritmos | Programación Orientada a Objetos | Persistencia de Datos (TXT, CSV) | Análisis de Datos | Computación en la Nube
+**Herramientas & Plataformas:** `Git` | `GitHub` | `VS Code` | `SQL Server (familiarizándome)` | `HTML` | `CSS`
+
+## 🌱 ¿Qué me motiva?
+
+Me apasiona desentrañar problemas complejos, transformar datos en insights accionables y construir soluciones que impacten positivamente. Busco constantemente desafíos que me permitan aplicar mi **capacidad analítica, mi adaptabilidad y mi resiliencia**.
+
+## 🤝 Conectemos
+
+¡Me encantaría conectar con otros entusiastas de la tecnología, reclutadores y profesionales del sector!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](**[Tu Enlace a LinkedIn]**)
+
+---
+**¡Explora mis repositorios para ver mis proyectos y soluciones a desafíos de programación!**
