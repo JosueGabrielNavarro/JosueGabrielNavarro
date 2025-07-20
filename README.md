@@ -1,6 +1,6 @@
 # ¡Hola! Soy Josue 👋
 
-¡Bienvenido/a a mi rincón digital! Soy un/a **Ingeniero/a de Sistemas en formación** con una profunda pasión por la programación y las matemáticas, forjada desde los 15 años. Mi curiosidad y mi enfoque autodidacta me impulsan a explorar y dominar nuevas tecnologías, con una visión clara hacia la **Ciencia de Datos**.
+¡Bienvenido/a a mi rincón digital! Soy un/a **Ingeniero/a de Sistemas en formación** con una profunda pasión por la programación y las matemáticas. Mi curiosidad y mi enfoque autodidacta me impulsan a explorar y dominar nuevas tecnologías, con una visión clara hacia la **Ciencia de Datos**.
 
 ## 🚀 Mi Viaje de Aprendizaje
 
