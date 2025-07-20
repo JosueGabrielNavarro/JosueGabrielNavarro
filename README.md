@@ -27,7 +27,7 @@ Me apasiona desentrañar problemas complejos, transformar datos en insights acci
 
 ¡Me encantaría conectar con otros entusiastas de la tecnología, reclutadores y profesionales del sector!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](**[Tu Enlace a LinkedIn]**)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](**www.linkedin.com/in/josue-navarro-366165154**)
 
 ---
 **¡Explora mis repositorios para ver mis proyectos y soluciones a desafíos de programación!**
