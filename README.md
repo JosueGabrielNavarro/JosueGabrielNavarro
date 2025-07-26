@@ -7,8 +7,6 @@
 Estoy comprometido/a con un aprendizaje riguroso y práctico:
 
 * **ONE Oracle Next Education:** Especialización intensiva en **Data Science**, cubriendo Machine Learning y bases de datos.
-* **CS50 (HarvardX):** Fundamentos sólidos en Ciencias de la Computación, algoritmos y estructuras de datos.
-* **Matemáticas para Ciencias de la Computación (MIT OCW):** Construyendo una base matemática robusta para el análisis de problemas complejos.
 * **Google Cloud Innovator's Community:** Explorando el potencial de la computación en la nube y sus herramientas.
 
 ## 💻 Habilidades Técnicas
