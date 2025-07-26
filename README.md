@@ -15,7 +15,7 @@ Estoy comprometido/a con un aprendizaje riguroso y práctico:
 
 A través de mi estudio y práctica constante en plataformas como Codeforces, he desarrollado y estoy perfeccionando las siguientes habilidades:
 
-**Lenguajes de Programación:** `Python` | `JavaScript` | `SQL` | `C++` | `Java` | `C`
+**Lenguajes de Programación:** `Python` | `JavaScript` | `SQL` | `C++` | `C`
 **Conceptos:** Estructuras de Datos | Algoritmos | Programación Orientada a Objetos | Persistencia de Datos (TXT, CSV) | Análisis de Datos | Computación en la Nube
 **Herramientas & Plataformas:** `Git` | `GitHub` | `VS Code` | `SQL Server (familiarizándome)` | `HTML` | `CSS`
 
