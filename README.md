@@ -14,12 +14,9 @@ Estoy comprometido/a con un aprendizaje riguroso y práctico:
 A través de mi estudio y práctica constante en plataformas como Codeforces, he desarrollado y estoy perfeccionando las siguientes habilidades:
 
 **Lenguajes de Programación:** `Python` | `JavaScript` | `SQL` | `C++` | `C`
-**Conceptos:** Estructuras de Datos | Algoritmos | Programación Orientada a Objetos | Persistencia de Datos (TXT, CSV) | Análisis de Datos | Computación en la Nube
+**Conceptos:** Estructuras de Datos | Algoritmos | Programación Orientada a Objetos | Análisis de Datos | Computación en la Nube | Generative AI
 **Herramientas & Plataformas:** `Git` | `GitHub` | `VS Code` | `SQL Server (familiarizándome)` | `HTML` | `CSS`
 
-## 🌱 ¿Qué me motiva?
-
-Me apasiona desentrañar problemas complejos, transformar datos en insights accionables y construir soluciones que impacten positivamente. Busco constantemente desafíos que me permitan aplicar mi **capacidad analítica, mi adaptabilidad y mi resiliencia**.
 
 ## 🤝 Conectemos
 
