@@ -1,28 +1,42 @@
-# ¡Hola! Soy Josue Navarro 👋
+# Hi there! I'm Josue 👋
 
-¡Bienvenido/a a mi rincón digital! Soy un/a **Ingeniero/a de Sistemas en formación** con una profunda pasión por la programación y las matemáticas. Mi curiosidad y mi enfoque autodidacta me impulsan a explorar y dominar nuevas tecnologías, con una visión clara hacia la **Ciencia de Datos**.
-
-## 🚀 Mi Viaje de Aprendizaje
-
-Estoy comprometido/a con un aprendizaje riguroso y práctico:
-
-* **ONE Oracle Next Education:** Especialización intensiva en **Data Science**, cubriendo Machine Learning y bases de datos.
-* **Google Cloud Innovator's Community:** Explorando el potencial de la computación en la nube y sus herramientas.
-
-## 💻 Habilidades Técnicas
-
-A través de mi estudio y práctica constante en plataformas como Codeforces, he desarrollado y estoy perfeccionando las siguientes habilidades:
-
-**Lenguajes de Programación:** `Python` | `JavaScript` | `SQL` | `C++` | `C`
-**Conceptos:** Estructuras de Datos | Algoritmos | Programación Orientada a Objetos | Análisis de Datos | Computación en la Nube | Generative AI
-**Herramientas & Plataformas:** `Git` | `GitHub` | `VS Code` | `SQL Server (familiarizándome)` | `HTML` | `CSS`
-
-
-## 🤝 Conectemos
-
-¡Me encantaría conectar con otros entusiastas de la tecnología, reclutadores y profesionales del sector!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](**https://www.linkedin.com/in/josue-navarro-366165154/**)
+## A passionate Python Developer & AI Enthusiast focused on building intelligent solutions.
 
 ---
-**¡Explora mis repositorios para ver mis proyectos y soluciones a desafíos de programación!**
+
+🔭 I’m currently refining my **GenAI Code Assistant** project and diving deeper into cloud-native technologies and Go programming.
+
+🌱 I’m always learning and exploring new facets of Generative AI, distributed systems, and open-source contributions.
+
+👯 I’m looking to collaborate on impactful open-source projects, especially those involving AI/ML, developer tooling, or cloud infrastructure.
+
+💬 Ask me about Python, LLMs, prompt engineering, or CI/CD!
+
+---
+
+### 🛠️ My Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
+
+### 📊 My GitHub Stats
+
+![JosueGabrielNavarro's Stats](https://github-readme-stats.vercel.app/api?username=JosueGabrielNavarro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![JosueGabrielNavarro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosueGabrielNavarro&theme=vue-dark&hide_border=true)
+![JosueGabrielNavarro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+---
+
+### 🚀 Featured Projects
+
+-   [**GenAI Code Assistant**]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/JosueGabrielNavarro/asistente-genai-gemini))
+    * An interactive AI-powered assistant built with Python, Google Gemini (via Vertex AI), and `prompt_toolkit` to help developers with coding questions and debugging.
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-navarro-366165154)
