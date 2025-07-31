@@ -20,9 +20,9 @@
 
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
-  <img height=400 width=390 src="https://github-readme-stats.vercel.app/api?username=JosueGabrielNavarro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&border_radius=10" alt="JosueGabrielNavarro's GitHub Stats"/>
-  <img height=400 width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JosueGabrielNavarro&theme=vue-dark&hide_border=true&border_radius=10" alt="JosueGabrielNavarro's GitHub Streak"/>
-  <img height=350 width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&theme=vue-dark&&layout=donut-vertical&border_radius=10" alt="JosueGabrielNavarro's Top Languages"/>
+  <img height=400 width=390 src="https://github-readme-stats.vercel.app/api?username=JosueGabrielNavarro&theme=monokai&show_icons=true&hide_border=true&count_private=false" alt="JosueGabrielNavarro's GitHub Streak"/>
+  <img height=400 width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JosueGabrielNavarro&theme=monokai&hide_border=true" alt="JosueGabrielNavarro's GitHub Streak"/>
+  <img height=350 width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="JosueGabrielNavarro's Top Languages"/>
   
 </p>
 
