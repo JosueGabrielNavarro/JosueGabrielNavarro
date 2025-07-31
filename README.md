@@ -21,8 +21,6 @@
 ---
 
 <h3 align="center">📊 My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JosueGabrielNavarro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="JosueGabrielNavarro's GitHub Stats"/>
   <br/>
@@ -30,9 +28,9 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="JosueGabrielNavarro's Top Languages"/>
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <h3 align="center">🚀 Featured Projects</h3>
