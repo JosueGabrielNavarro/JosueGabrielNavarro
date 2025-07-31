@@ -24,6 +24,7 @@
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JosueGabrielNavarro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="JosueGabrielNavarro's GitHub Stats"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueGabrielNavarro)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueGabrielNavarro&theme=vue-dark&hide_border=true" alt="JosueGabrielNavarro's GitHub Streak"/>
   <br/>
