@@ -4,10 +4,8 @@
 </div>
 
 ---
--   🔭 I’m currently refining my **GenAI Code Assistant** project and diving deeper into cloud-native technologies and Go programming.
 -   🌱 I’m always learning and exploring new facets of Generative AI, distributed systems, and open-source contributions.
 -   👯 I’m looking to collaborate on impactful open-source projects, especially those involving AI/ML, developer tooling, or cloud infrastructure.
--   💬 Ask me about Python, LLMs, prompt engineering, or CI/CD!
 
 ---
 
