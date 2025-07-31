@@ -24,7 +24,7 @@
   <br/>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JosueGabrielNavarro&theme=vue-dark&hide_border=true&border_radius=10" alt="JosueGabrielNavarro's GitHub Streak"/>
   <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&layout=donut-vertical&border_radius=10" alt="JosueGabrielNavarro's Top Languages"/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&theme=vue-dark&&layout=donut-vertical&border_radius=10" alt="JosueGabrielNavarro's Top Languages"/>
   <br/>
 </p>
 
