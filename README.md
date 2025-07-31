@@ -26,11 +26,9 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueGabrielNavarro&theme=vue-dark&hide_border=true" alt="JosueGabrielNavarro's GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="JosueGabrielNavarro's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&layout=donut-vertical" alt="JosueGabrielNavarro's Top Languages"/>
   <br/>
-  
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <h3 align="center">🚀 Featured Projects</h3>
