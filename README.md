@@ -4,7 +4,7 @@
 </div>
 
 ---
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?JosueGabrielNavarro=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 -   🔭 I’m currently refining my **GenAI Code Assistant** project and diving deeper into cloud-native technologies and Go programming.
 -   🌱 I’m always learning and exploring new facets of Generative AI, distributed systems, and open-source contributions.
 -   👯 I’m looking to collaborate on impactful open-source projects, especially those involving AI/ML, developer tooling, or cloud infrastructure.
