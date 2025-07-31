@@ -29,6 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&layout=donut-vertical" alt="JosueGabrielNavarro's Top Languages"/>
   <br/>
 </p>
+
 ---
 
 <h3 align="center">🚀 Featured Projects</h3>
