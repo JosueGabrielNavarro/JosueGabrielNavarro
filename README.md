@@ -26,13 +26,6 @@
   
 </p>
 
----
-
-<h3 align="center">🚀 Featured Projects</h3>
-<p align="center">
-  -   <a href="https://github.com/JosueGabrielNavarro/asistente-genai-gemini"><b>GenAI Code Assistant</b></a>
-      * An interactive AI-powered assistant built with Python, Google Gemini (via Vertex AI), and `prompt_toolkit` to help developers with coding questions and debugging.
-</p>
 
 ---
 
