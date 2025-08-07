@@ -12,7 +12,7 @@
 <h3 align="center">🛠️ My Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,gcp,js,html,css,react,github,mysql,powershell,py,rust,go,vscode&perline=7" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=git,c,gcp,js,html,css,github,mysql,powershell,py,rust,go,vscode&perline=7" alt="My Skills" />
   </a>
 </p>
 
@@ -20,8 +20,7 @@
 
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
-  <img height=400 width=390 src="https://github-readme-stats.vercel.app/api?username=JosueGabrielNavarro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="JosueGabrielNavarro's GitHub Streak"/>
-  <img height=400 width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JosueGabrielNavarro&theme=vue-dark&hide_border=true" alt="JosueGabrielNavarro's GitHub Streak"/>
+  <img height=400 width=390 src="https://github-readme-stats.vercel.app/api?username=JosueGabrielNavarro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="JosueGabrielNavarro's"/>
   <img height=350 width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueGabrielNavarro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="JosueGabrielNavarro's Top Languages"/>
   
 </p>
