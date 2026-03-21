@@ -7,11 +7,11 @@ Web3 stands for trustless agreements and financial sovereignty. My current missi
 
 **🚀 CURRENT HIGHLIGHT:**
 
-Currently documenting my technical journey on [Paragraph]([https://paragraph.com/@gabrielnavarro](https://paragraph.com/0x526c8d23a8c6cf7641b45137d7d7ccff582913e7)) 📝, breaking down complex mathematical concepts.
+Currently documenting my technical journey on [Paragraph](https://paragraph.com/@gabrielnavarro) 📝, breaking down complex mathematical concepts.
 
 * 🌍  I'm based in Panamá.
 * ✉️  You can contact me at: **[navarro.josue@proton.me]**
-* 🚀  I'm currently working on: [Documenting my learning journey (Read my Blog)](https://paragraph.com/0x526c8d23a8c6cf7641b45137d7d7ccff582913e7)
+* 🚀  I'm currently working on: [Documenting my learning journey (Read my Blog)](https://paragraph.com/@gabrielnavarro)
 * 🧠  I'm learning: Blockchain Core Architecture, Applied Cryptography (SHA-256), and Python for Web3.
 * ⚡  Inspired by: The Cyfrin Updraft community.
 
